@@ -1,6 +1,0 @@
----
-layout: default
-title: Hank Quinlan's Blog
----
-
-Welcome
